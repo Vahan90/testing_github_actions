@@ -1,4 +1,4 @@
-name: hello
+name: goodbye
 
 on: [pull_request]
 
